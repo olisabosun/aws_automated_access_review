@@ -1,4 +1,4 @@
-## This provides explanation line by line of the deploy.sh script used for deployment.
+###  This provides explanation line by line of the deploy.sh script used for deployment.
 
 #!/bin/bash
 # This is called a "shebang" - it tells the system to run this script using bash shell
